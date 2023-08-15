@@ -1,3 +1,5 @@
+<h4>This repo was forked to allow the tracking of American and Canadian banks.</h4>
+
 <h4 align="center"><img width="100" src="./docs/img/icon.png" alt="Mintable"></h4>
 <h1 align="center" style="font-weight: 500; font-size: 60px !important; border-bottom: 0 !important;">Mintable</h1>
 
